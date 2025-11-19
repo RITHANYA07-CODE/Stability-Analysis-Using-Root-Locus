@@ -21,8 +21,6 @@ Computer with MATLAB software
 
 ## Program: 
 ```
-% Ex. No. 4 Stability Analysis using Root Locus
-
 num = [1];
 den = [1 15 50 0];
 sys = tf(num, den);       
