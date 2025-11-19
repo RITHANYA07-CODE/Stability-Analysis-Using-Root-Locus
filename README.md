@@ -29,8 +29,9 @@ rlocus(sys);
 ```
 
 ## Output: 
-<img width="1596" height="989" alt="image" src="https://github.com/user-attachments/assets/79c6706a-7c47-48ca-bdd1-50d448c0704f" />
+<img width="1641" height="991" alt="image" src="https://github.com/user-attachments/assets/13b9dc05-f8ca-4362-b634-953e683dbac3" />
+
 
 ## Result:
 
-Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is k < 733.
+Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is 753.
